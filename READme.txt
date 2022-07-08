@@ -1,0 +1,5 @@
+Nama 	: Abdul Hafizh
+Nim	: 191011400794
+Kelas	: 06TPLM005
+
+UAS_KECERDASANBUATAN_
